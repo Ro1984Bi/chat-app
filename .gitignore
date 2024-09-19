@@ -1,0 +1,10 @@
+# Virtual environment 
+.venv/
+venv*/
+.Python
+bin/
+include/
+lib/
+lib64/
+pip-selfcheck.json
+
